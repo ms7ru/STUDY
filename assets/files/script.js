@@ -123,7 +123,7 @@ start()
 
 
 async function introAnimate() {
-    /*
+    
 
 
     // Play background audio
@@ -171,7 +171,7 @@ async function introAnimate() {
     playAudio("./assets/sounds/show_choice.mp3");
     while (Clicked == false) {await wait(10);} Clicked = false;
 
-    */
+    
 
     updatSceen("assets/images-of-animations/intro-animation/2-2.png");
     playAudio("./assets/sounds/show_choice.mp3");

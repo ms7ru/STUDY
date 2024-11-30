@@ -2,7 +2,7 @@
 
 ## Overview
 
-**S.T.U.D.Y.** is a decision-making game inspired by *Anxiety Simulator*. In this game, you embody the two conflicting parts of a body:  
+**S.T.U.D.Y.** is a decision-making game inspired by *Adventures with Anxiety*. In this game, you embody the two conflicting parts of a body:  
 - **Nerd:** Wants to study all the time and avoids fun.  
 - **Fun:** Wants to avoid studying and only have fun.
 
@@ -39,7 +39,7 @@ Other images in the **Just-images-withut-top-half** and **intro-animation** fold
 
 ## Background  
 
-The code is designed as a clone of *My Adventures with Anxiety*. It's a creative take on simulating internal conflicts, offering an engaging and interactive experience.
+The code is designed as a clone of *Adventures with Anxiety*. and also maches my theam *You are your own enemy*
 
 ---
 
